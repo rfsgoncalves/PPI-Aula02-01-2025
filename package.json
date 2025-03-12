@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/rfsgoncalves/PPI-Aula02-01-2025#readme",
   "dependencies": {
+    "express": "^4.21.2",
     "mysql2": "^3.12.0"
   }
 }
